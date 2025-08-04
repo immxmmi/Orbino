@@ -1,6 +1,7 @@
-import { ArrowRightIcon } from "lucide-react";
+import Hero06 from "@/components/hero/page";
+
 
 
 export default function Hero() {
-  return < />;
+  return <Hero06 />;
 }

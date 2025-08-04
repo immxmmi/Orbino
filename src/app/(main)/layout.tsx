@@ -1,6 +1,6 @@
 // app/(dashboard)/layout.tsx
-import { AppSidebar } from "@/components/app-sidebar"
-import { SiteHeader } from "@/components/site-header"
+import { AppSidebar } from "@/components/navbar/app-sidebar"
+import { SiteHeader } from "@/components/header/site-header"
 import {
   SidebarInset,
   SidebarProvider,
